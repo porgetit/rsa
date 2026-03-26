@@ -1,6 +1,6 @@
 # Implementación del Generador de Claves RSA
 
-### Autor: [Kevin Esguerra Cardona](mailto:kevin.esguerra@utp.edu.co)
+### Autor: [Kevin Esguerra Cardona](mailto:kevin.esguerra@utp.edu.co), David Julian Torres y Esteban Guapacha
 
 Este repositorio contiene una implementación en Python para la generación de pares de claves del criptosistema RSA. El diseño emplea el paradigma de orientación a objetos e implementa pruebas de primalidad probabilísticas para la obtención eficiente de los parámetros estocásticos del sistema.
 
